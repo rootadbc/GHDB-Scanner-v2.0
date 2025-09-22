@@ -1,7 +1,7 @@
 ## GHDB Scanner v2.0  
 Google Hacking Database Reconnaissance Tool
 
-A hacker-themed CLI utility that automates site-restricted searches using the Google Hacking Database (GHDB) dorks. Leverages DuckDuckGo’s search API to scan any target domain for potential exposures, with real-time progress bars, timestamped logging, and CSV export.  
+A CLI utility that automates site-restricted searches using the Google Hacking Database (GHDB) dorks. Leverages DuckDuckGo’s search API to scan any target domain for potential exposures, with real-time progress bars, timestamped logging, and CSV export.  
 
 Features  
 - Interactive prompts for target URL and dork list  
